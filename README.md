@@ -22,5 +22,5 @@ This part played the major role in this exercise. There were lots of ways to fil
  - The amount of expenses and CryoSleep are very important features. People in CryoSleep tend to not spend any money (they are asleep). 
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/CsabaDanielFarkas/spaceship-titanic-analysis-kaggle/blob/main/Images/cryosleep%20and%20spending.png">
+    <img width="25%" src="https://github.com/CsabaDanielFarkas/spaceship-titanic-analysis-kaggle/blob/main/Images/cryosleep%20and%20spending.png">
 </p>
