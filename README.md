@@ -24,3 +24,17 @@ This part played the major role in this exercise. There were lots of ways to fil
 <p align="center" width="100%">
     <img width="25%" src="https://github.com/CsabaDanielFarkas/spaceship-titanic-analysis-kaggle/blob/main/Images/cryosleep%20and%20spending.png">
 </p>
+  - Surnames are usually also unique to groups - people travelling in groups are mostly families. We can with a pretty good precision fill in the remaining Surnames.
+ <p align="center" width="100%">
+    <img width="25%" src="https://github.com/CsabaDanielFarkas/spaceship-titanic-analysis-kaggle/blob/main/Images/surnames%20to%20groups.png">
+</p>
+
+Although the Surname seems unimportant, it played a great role at filling other NaN values.
+
+# 2. Models
+Thanks to our feature engineering, we could train decent models. One could notice great differences before and after properly filling NaN values.
+Our results were the following: 
+<p align="center" width="100%">
+    <img width="25%" src="https://github.com/CsabaDanielFarkas/spaceship-titanic-analysis-kaggle/blob/main/Images/results.png">
+</p>
+We used SVC, LGBM and CatBoost for our final predictions. Our final Kaggle score was 0.805.
